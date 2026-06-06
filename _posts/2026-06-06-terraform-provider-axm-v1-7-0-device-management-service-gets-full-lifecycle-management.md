@@ -75,7 +75,7 @@ resource "axm_default_device_assignment" "org" {
 }
 ```
 
-Each attribute takes an Device Management Service ID. Set it to a server ID to assign that family, set it to `""` to ensure it's unassigned (from the server tracked in state), or omit it entirely to leave it unmanaged by Terraform.
+Each attribute takes a Device Management Service ID. Set it to a server ID to assign that family, set it to `""` to ensure it's unassigned (from the server tracked in state), or omit it entirely to leave it unmanaged by Terraform.
 
 A couple of things to know before you deploy this:
 
