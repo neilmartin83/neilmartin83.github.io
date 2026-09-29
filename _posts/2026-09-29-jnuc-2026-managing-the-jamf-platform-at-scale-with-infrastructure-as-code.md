@@ -6,7 +6,7 @@ date: 2026-09-29
 
 ![](/assets/2026/09/29/iac.png)
 
-I had the honour of presenting alongside my colleague [Kyle Hoare](https://www.linkedin.com/in/kyle-hoare-1b0a3b1/) at this year's Jamf Nation User Conference (JNUC) in Kansas City. Our session continued Jamf's [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) journey, focusing on managing the Platform at scale. We shared the year's fast-moving developments of Jamf's Terraform provider ecosystem, its convergence onto the Jamf Platform, and wider tooling before diving into the practical workflows we've built to manage multiple Jamf Protect environments for customers in an MSP context.
+I had the honour of presenting alongside my colleague [Kyle Hoare](https://www.linkedin.com/in/kyle-hoare) at this year's Jamf Nation User Conference (JNUC) in Kansas City. Our session continued Jamf's [Infrastructure as Code](https://en.wikipedia.org/wiki/Infrastructure_as_code) journey, focusing on managing the Platform at scale. We shared the year's fast-moving developments of Jamf's Terraform provider ecosystem, its convergence onto the Jamf Platform, and wider tooling before diving into the practical workflows we've built to manage multiple Jamf Protect environments for customers in an MSP context.
 
 [Download the slides here](/assets/2026/09/29/managing_the_jamf_platform_at_scale_with_infrastructure_as_code.pdf). The session video is available in the [JNUC Session Catalog](https://reg.jnuc.jamf.com/flow/jamf/jnuc2026/home26/page/sessioncatalog/session/1775690693172001UgbJ) for registered attendees, and will be released publicly in the coming months. I will update this post when it is available.
 
