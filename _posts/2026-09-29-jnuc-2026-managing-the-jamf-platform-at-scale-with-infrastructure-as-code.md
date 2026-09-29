@@ -32,6 +32,8 @@ It's been a wild year for Infrastructure as Code! It was a key theme across the 
 
 - **Jamf Pro Community Terraform Provider Documentation**: [https://registry.terraform.io/providers/deploymenttheory/jamfpro/latest/docs](https://registry.terraform.io/providers/deploymenttheory/jamfpro/latest/docs)
 
+- **jamformer** (Export your Jamf configuration to Terraform): [https://github.com/Jamf-Concepts/jamformer](https://github.com/Jamf-Concepts/jamformer)
+
 - **jamf-cli** (Unified command line tool for the Jamf Platform): [https://github.com/Jamf-Concepts/jamf-cli](https://github.com/Jamf-Concepts/jamf-cli)
 
 Join the discussion on the [MacAdmins Slack](https://www.macadmins.org/):
