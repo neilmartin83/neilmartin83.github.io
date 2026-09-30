@@ -24,7 +24,7 @@ It's been a wild year for Infrastructure as Code! It was a key theme across the 
 
 - **Terraform MSP Reference Project** (a multi-environment implementation with workflows): [https://github.com/Jamf-Concepts/terraform-jamf-platform/tree/ref-jamfprotect-msp](https://github.com/Jamf-Concepts/terraform-jamf-platform/tree/ref-jamfprotect-msp)
 
-- **Infrastructure as Code guides** (Jamf Concepts): [https://concepts.jamf.com/en/guides/infrastructure-as-code/](https://concepts.jamf.com/en/guides/infrastructure-as-code/)
+- **Resources: Terraform, GitHub, and Jamf Configurations**: [https://developer.jamf.com/platform-api/docs/resources-terraform-github-and-jamf-configurations](https://developer.jamf.com/platform-api/docs/resources-terraform-github-and-jamf-configurations)
 
 - **Jamf Platform Terraform Provider Documentation** (now in the `jamf` namespace!): [https://registry.terraform.io/providers/jamf/jamfplatform/](https://registry.terraform.io/providers/jamf/jamfplatform)
 
